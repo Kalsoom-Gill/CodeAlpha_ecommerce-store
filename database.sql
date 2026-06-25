@@ -1,4 +1,4 @@
-CREATE DATABASE ecommerce_db;  //phpmyadmin all over code
+CREATE DATABASE ecommerce_db; #phpmyadmin all code
 
 USE ecommerce_db;
 
