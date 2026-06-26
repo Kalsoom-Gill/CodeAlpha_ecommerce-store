@@ -9,8 +9,9 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.static("public"));
 
 app.get("/", (req, res) => {
-  res.send("E-Commerce Store Running");
+  res.redirect("/index.html");
 });
+
 
 app.post("/register", async (req, res) => {
   const { name, email, password } = req.body;
