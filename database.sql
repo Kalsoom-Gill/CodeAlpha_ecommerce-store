@@ -31,3 +31,5 @@ VALUES
 ('Headphones',3000,'Wireless Headphones','headphones.jpg');
 
 SELECT * FROM orders;
+SELECT * FROM users;
+SELECT * FROM products;
