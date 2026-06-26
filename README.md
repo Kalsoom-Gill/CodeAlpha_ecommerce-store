@@ -64,13 +64,8 @@ node server.js
 5. Open in browser
 
 ```text
-links to check:
-http://localhost/phpmyadmin
-http://localhost:3000/register.html
-http://localhost:3000/login.html
-http://localhost:3000/index.html
-http://localhost:3000/cart.html
-http://localhost:3000/checkout.html
+link to check:
+http://localhost:3000
 ```
 
 ## Author
