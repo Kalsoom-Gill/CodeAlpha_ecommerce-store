@@ -55,7 +55,7 @@ npm install
 
 3. Import the database.sql file into phpMyAdmin
 
-4. Start the server
+4. Start the server in vscode terminal
 
 ```bash
 node server.js
@@ -64,25 +64,13 @@ node server.js
 5. Open in browser
 
 ```text
-http://localhost:3000
-```
-
-## Project Structure
-
-```text
-ecommerce-store
-│
-├── public
-│   ├── index.html
-│   ├── products.html
-│   ├── cart.html
-│   ├── style.css
-│   └── script.js
-│
-├── server.js
-├── database.sql
-├── package.json
-└── README.md
+links to check:
+http://localhost/phpmyadmin
+http://localhost:3000/register.html
+http://localhost:3000/login.html
+http://localhost:3000/index.html
+http://localhost:3000/cart.html
+http://localhost:3000/checkout.html
 ```
 
 ## Author
