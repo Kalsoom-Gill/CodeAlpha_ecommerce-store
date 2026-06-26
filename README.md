@@ -44,7 +44,7 @@ This is a basic full-stack E-Commerce Store developed using HTML, CSS, JavaScrip
 1.  repository link
 
 ```bash
-link: 
+link: https://github.com/Kalsoom-Gill/CodeAlpha_ecommerce-store.git
 ```
 
 2. Install dependencies
